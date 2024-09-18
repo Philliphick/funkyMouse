@@ -126,7 +126,7 @@
         @keyframes rotate {
             from {
                 opacity: 1;
-                height: 50px;
+                height: 40px;
                 width: 40px;
                 transform: rotate(0deg);
     
